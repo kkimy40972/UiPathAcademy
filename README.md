@@ -1,1 +1,1 @@
-# UiPath-Academy
+# UiPathAcademy
